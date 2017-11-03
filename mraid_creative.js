@@ -1,4 +1,3 @@
-
 <div id="adContainer" style="width:320px;margin:0px;padding:0px;background-color:#ffffff;">
 	<div id="normal" style="display:none;width:320px;height:50px;margin:auto;position:relative;top:0px;left:0px;">
 		<img width="320" height="50" src="http://admarvel.s3.amazonaws.com/demo/mraid/320x50_click_to_expand.png" onclick="javascript:expand();"/>
