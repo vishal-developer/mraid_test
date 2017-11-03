@@ -1,4 +1,4 @@
-<script>
+
 // Expanded Click Action Functions
 function openSite(url)
 {
@@ -156,4 +156,3 @@ function doReadyCheck()
 }
 
 doReadyCheck();
-</script>
