@@ -125,7 +125,7 @@ function setupViewport(width)
 		element.content = "width=" + width + ", user-scalable=no";
 	}
 }
-setupViewport(320);
+//setupViewport(320);
 
 function mraidIsReady()
 {
